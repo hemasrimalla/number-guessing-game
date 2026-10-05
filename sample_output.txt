@@ -1,0 +1,80 @@
+**************************************************
+       WELCOME TO THE NUMBER GUESSING GAME       
+**************************************************
+
+==================================================
+I'm thinking of a number between 1 and 100.
+You have 7 attempts to guess it. Good luck!
+==================================================
+
+[Attempt 1/7] (Remaining: 7)
+Enter your guess (1-100): python_intern
+Invalid input! Please enter a valid whole number (no letters or symbols).
+Enter your guess (1-100): 150
+Out of range! Please enter a number between 1 and 100.
+Enter your guess (1-100): 50
+Too low! Try a higher number.
+
+[Attempt 2/7] (Remaining: 6)
+Enter your guess (1-100): 75
+Too low! Try a higher number.
+
+[Attempt 3/7] (Remaining: 5)
+Enter your guess (1-100): 88
+Too low! Try a higher number.
+
+[Attempt 4/7] (Remaining: 4)
+Enter your guess (1-100): 94
+Too high! Try a lower number.
+
+[Attempt 5/7] (Remaining: 3)
+Enter your guess (1-100): 91
+Too low! Try a higher number.
+
+[Attempt 6/7] (Remaining: 2)
+Enter your guess (1-100): 92
+
+ Congratulations! You guessed the number 92 correctly in 6 attempt(s)!
+
+Play again? (y/n): y
+
+==================================================
+I'm thinking of a number between 1 and 100.
+You have 7 attempts to guess it. Good luck!
+==================================================
+
+[Attempt 1/7] (Remaining: 7)
+Enter your guess (1-100): 1
+Too low! Try a higher number.
+
+[Attempt 2/7] (Remaining: 6)
+Enter your guess (1-100): 2
+Too low! Try a higher number.
+
+[Attempt 3/7] (Remaining: 5)
+Enter your guess (1-100): 3
+Too low! Try a higher number.
+
+[Attempt 4/7] (Remaining: 4)
+Enter your guess (1-100): 4
+Too low! Try a higher number.
+
+[Attempt 5/7] (Remaining: 3)
+Enter your guess (1-100): 5
+Too low! Try a higher number.
+
+[Attempt 6/7] (Remaining: 2)
+Enter your guess (1-100): 6
+Too low! Try a higher number.
+
+[Attempt 7/7] (Remaining: 1)
+Enter your guess (1-100): 7
+Too low! Try a higher number.
+
+ Game Over! You've run out of attempts.
+The secret number was: 32
+
+Play again? (y/n): n
+
+Thank you for playing! Have a great day!
+
